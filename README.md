@@ -5,8 +5,8 @@
 
 <div style="display: flex;">
   <a href="https://github.com/helen-lourenco">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helen-lourenco&show_icons=true&theme=default&include_all_commits=true&count_private=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helen-lourenco&layout=compact&langs_count=16&theme=default"/>  
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=helen-lourenco&show_icons=true&theme=default&include_all_commits=true&count_private=true"/> 
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helen-lourenco&layout=compact&langs_count=16&theme=default"/>  
   </a>
 </div>
 
