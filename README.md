@@ -3,12 +3,14 @@
 - 🎓 Universidade Federal do Paraná (UFPR)
 - 📈 Statistics | Data Science | Machine Learning
 
+<! --
 <div style="display: flex;">
   <a href="https://github.com/helen-lourenco">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=helen-lourenco&show_icons=true&theme=default&include_all_commits=true&count_private=true"/> 
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helen-lourenco&layout=compact&langs_count=16&theme=default"/>  
   </a>
 </div>
+-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Helen-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
