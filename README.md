@@ -1,7 +1,7 @@
 ### Hi there!
 
 - 🎓 Universidade Federal do Paraná (UFPR)
-- 📈 Statistics | Data Science | R Programming
+- 📈 Statistician | Data Scientist | Statistical Programmer CDISC
 
 <!--
 <div style="display: flex;">
