@@ -1,7 +1,8 @@
 ### Hi there!
 
-- 🎓 Universidade Federal do Paraná (UFPR)
-- 📈 Statistician | Data Scientist | Statistical Programmer CDISC
+- 🎓 Universidade Federal do Paraná (UFPR)  
+- 📈 Statistician | Data Scientist | Statistical Programmer (CDISC)  
+- 🧬 Specially interested in Healthcare Data, Survival Analysis, and R Programming  
 
 <!--
 <div style="display: flex;">
@@ -15,11 +16,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Helen-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Helen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Helen-SAS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/SAS_logo_horiz.svg">
 </div>
 
 ##
 
 <div> 
-  <a href = "mailto: helen.estatistica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:helen.estatistica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/helenlourenco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
