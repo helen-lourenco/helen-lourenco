@@ -1,7 +1,7 @@
 ### Hi there!
 
 - 🎓 Universidade Federal do Paraná (UFPR)
-- 📈 Statistics | Data Science | Machine Learning
+- 📈 Statistics | Data Science | R Programming
 
 <!--
 <div style="display: flex;">
